@@ -8,7 +8,7 @@ const Contact = () => {
           <div className="contact__contact">
             <h1>CONTACT</h1>
             <p><i className="fa-solid fa-envelope" style={{color: "#FFFFFF"}}></i> Email:</p>
-            <h2>rata.fabian1@gmail.com</h2>
+            <h2>fabianrwork@gmail.com</h2>
           </div>
           
           <div className="contact__links">
