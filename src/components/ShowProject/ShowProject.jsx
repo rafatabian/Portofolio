@@ -47,8 +47,8 @@ const ShowProject = ({props}) => {
             <div className="first_project_img">
               <a href={props.ghLinks[0]}>
               <LazyLoadImage
-                    src={props.images[0] == "cars" ? carsProject : props.images[0] == "music" ? musicProject : assistantProject}
-                    placeholderSrc={props[0] == "cars" ? carsProjectSmall : props[0] == "music" ? musicProjectTiny : assistantProjectSmall}
+                    src={props.images[0] === "cars" ? carsProject : props.images[0] === "music" ? musicProject : assistantProject}
+                    placeholderSrc={props[0] === "cars" ? carsProjectSmall : props[0] === "music" ? musicProjectTiny : assistantProjectSmall}
                     effect="blur"
                     alt="projects" 
                 />
