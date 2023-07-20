@@ -73,8 +73,8 @@
 
         "images": ["music"],
 
-        "ghLinks": ["https://your-music-dd77fcf95755.herokuapp.com/",
-                    "https://github.com/rafatabian/MusicApp"]
+        "ghLinks": ["https://rafatabian.github.io/music/",
+                    "https://github.com/rafatabian/music"]
         
     }
 }
